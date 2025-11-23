@@ -126,11 +126,11 @@ int main() {
 
 $ ./sem.o 
 
-<img width="790" height="701" alt="5 os" src="https://github.com/user-attachments/assets/386b7280-9960-42ca-a8b3-c9532717db52" />
+![alt text](img1.png)
 
 $ ipcs
+![alt text](<img 2.png>)
 
-<img width="621" height="143" alt="55 os" src="https://github.com/user-attachments/assets/26aa9744-b2fe-4cf4-bcc9-0d9b7719b3be" />
 
 ## RESULT:
 
